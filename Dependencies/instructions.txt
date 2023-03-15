@@ -1,0 +1,15 @@
+Dependencies Needed
+	0Harmony
+	Assembly-CSharp
+	ModLoader
+	System 
+	System.Core 
+	System.Xml.Linq 
+	System.Data.DataSetExtensions 
+	Microsoft.CSharp 
+	System.Data 
+	System.Net.Http 
+	System.Xml 
+	UnityEngine
+	UnityEngine.CoreModule
+	UnityEngine.UI

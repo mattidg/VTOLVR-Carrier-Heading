@@ -1,0 +1,13 @@
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Carrier Heading\CarrierHeading\bin\Debug\CarrierHeading.dll
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Carrier Heading\CarrierHeading\bin\Debug\CarrierHeading.pdb
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Carrier Heading\CarrierHeading\bin\Debug\0Harmony.dll
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Carrier Heading\CarrierHeading\bin\Debug\Assembly-CSharp.dll
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Carrier Heading\CarrierHeading\bin\Debug\ModLoader.dll
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Carrier Heading\CarrierHeading\bin\Debug\UnityEngine.CoreModule.dll
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Carrier Heading\CarrierHeading\bin\Debug\UnityEngine.dll
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Carrier Heading\CarrierHeading\bin\Debug\ModLoader.xml
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Carrier Heading\CarrierHeading\obj\Debug\CarrierHeading.csproj.AssemblyReference.cache
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Carrier Heading\CarrierHeading\obj\Debug\CarrierHeading.csproj.CoreCompileInputs.cache
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Carrier Heading\CarrierHeading\obj\Debug\CarrierHeading.csproj.CopyComplete
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Carrier Heading\CarrierHeading\obj\Debug\CarrierHeading.dll
+I:\SteamLibrary\steamapps\common\VTOL VR\Bullshit that aint going to work\My Mods\Carrier Heading\CarrierHeading\obj\Debug\CarrierHeading.pdb
